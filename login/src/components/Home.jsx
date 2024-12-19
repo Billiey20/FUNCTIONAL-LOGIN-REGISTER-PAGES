@@ -10,7 +10,7 @@ const HomePage = () => {
     <div className={`home-container ${darkMode ? 'dark-mode' : ''}`}>
       <header className="header">
         <div className="logo">
-          <h1>My Website</h1>
+          <h1>BILLIEY'S WEBSITE</h1>
         </div>
         <nav>
           <ul className="nav-links">
@@ -56,7 +56,7 @@ const HomePage = () => {
       </main>
 
       <footer>
-        <p>&copy; 2024 My Website | All Rights Reserved</p>
+        <p>&copy; 2024 copyright @Billiey | All Rights Reserved</p>
       </footer>
     </div>
   );
